@@ -1,5 +1,7 @@
 # Gonum integrate  [![Build Status](https://travis-ci.org/gonum/integrate.svg?branch=master)](https://travis-ci.org/gonum/integrate)  [![Coverage Status](https://coveralls.io/repos/gonum/integrate/badge.svg?branch=master&service=github)](https://coveralls.io/github/gonum/integrate?branch=master) [![GoDoc](https://godoc.org/github.com/gonum/integrate?status.svg)](https://godoc.org/github.com/gonum/integrate)
 
+# This repository is no longer maintained. Development has moved to https://github.com/gonum/gonum.
+
 Package integrate provides numerical evaluation of definite integrals of single-variable functions for the Go programming language.
 
 ## Issues
