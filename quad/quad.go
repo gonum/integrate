@@ -2,8 +2,10 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Package quad provides numerical evaluation of definite integrals of single-variable functions.
+// This repository is no longer maintained.
+// Development has moved to https://github.com/gonum/gonum.
 //
+// Package quad provides numerical evaluation of definite integrals of single-variable functions.
 package quad
 
 import (
